@@ -9,7 +9,7 @@ documentation = "https://docs.rs/opentelemetry-testing"
 homepage = "https://github.com/jdrouet/opentelemetry-testing"
 authors = ["Jeremie Drouet <jeremie.drouet@gmail.com>"]
 keywords = ["opentelemetry", "tracing", "metrics", "logging", "testing"]
-categories = ["development-tools", "observability"]
+categories = ["development-tools"]
 readme = "README.md"
 
 [dependencies]
