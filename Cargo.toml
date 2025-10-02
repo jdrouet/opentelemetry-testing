@@ -2,6 +2,15 @@
 name = "opentelemetry-testing"
 version = "0.1.0"
 edition = "2024"
+description = "A library for testing OpenTelemetry integrations with tracing, metrics, and logging."
+license = "MIT"
+repository = "https://github.com/jdrouet/opentelemetry-testing"
+documentation = "https://docs.rs/opentelemetry-testing"
+homepage = "https://github.com/jdrouet/opentelemetry-testing"
+authors = ["Jeremie Drouet <jeremie.drouet@gmail.com>"]
+keywords = ["opentelemetry", "tracing", "metrics", "logging", "testing"]
+categories = ["development-tools", "observability"]
+readme = "README.md"
 
 [dependencies]
 anyhow = "1"
